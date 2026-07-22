@@ -1,181 +1,169 @@
-<div align="center">
+# 💫 About Me
 
-# Hi 👋, I'm Soham Ghosh
+<h1 align="center">Hi 👋, I'm Soham Ghosh</h1>
+<h3 align="center">AI Engineer • Full-Stack Developer • Entrepreneur • Hackathon Builder</h3>
 
-### AI & Machine Learning Engineer • Full Stack Developer • Developer @ DevPhoenix
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3500&pause=1200&center=true&vCenter=true&width=720&lines=Developer+at+DevPhoenix;AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Building+Intelligent+Digital+Solutions;Always+Learning+Something+New" />
+- 🎓 B.Tech in Computer Science Engineering (AI & ML) at **Brainware University**
+- 🤖 Passionate about **Artificial Intelligence, Full-Stack Development & Product Engineering**
+- 🚀 Currently building **AI-powered products, SaaS platforms, and intelligent web applications**
+- 🌱 Currently learning **Agentic AI, Advanced RAG, LLM Engineering, Cloud Computing & System Design**
+- 💬 Ask me about **Python, TypeScript, Next.js, React, Node.js, FastAPI, AI, Machine Learning & Prompt Engineering**
+- 🎯 Goal: Build impactful AI startups that solve real-world problems
+- ⚡ Fun Fact: *I love turning ideas into real-world products and participating in hackathons.*
 
-<br>
+---
 
-<a href="https://www.linkedin.com/in/soham-ghosh-464b33253/">
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://soham-ghosh-tech-portfolio.onrender.com/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/soham-ghosh-464b33253/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://soham-ghosh-tech-portfolio.onrender.com/">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:sohamghosh1762@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/sohamghosh1762-max">
+<a href="https://github.com/sohamghosh1762-max" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
-
----
-
-# 👨‍💻 About Me
-
-I'm an aspiring **AI & Machine Learning Engineer** and **Full Stack Developer** pursuing a Bachelor's degree in **Computer Science & Engineering (AI & ML)**.
-
-Currently, I'm working as a **Developer at DevPhoenix**, where I contribute to building scalable web applications, AI-powered solutions, and modern digital platforms.
-
-I enjoy transforming innovative ideas into practical software by combining **Artificial Intelligence**, **Machine Learning**, and **Full Stack Development** to solve real-world problems.
-
-📍 **Location:** Kolkata, West Bengal, India
-
----
-
-# 💼 Experience
-
-## Developer • DevPhoenix *(Current)*
-
-Working on modern software products with a focus on performance, scalability, and intelligent user experiences.
-
-### Responsibilities
-
-- Developing scalable Full Stack applications
-- Building AI-powered software solutions
-- Designing RESTful APIs and backend services
-- Database design and optimization
-- Cloud-ready application deployment
-- Collaborating with cross-functional development teams
-
----
-
-# 🎓 Education
-
-**Bachelor of Technology**
-
-Computer Science & Engineering *(Artificial Intelligence & Machine Learning)*
-
-**Brainware University**
-
----
-
-# 🛠 Technical Skills
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,html,css,sql"/>
-</p>
-
-### Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap"/>
-</p>
-
-### Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask"/>
-</p>
-
-### Artificial Intelligence & Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-</p>
-
-**Libraries**
-
-- Scikit-Learn
-- Pandas
-- NumPy
-- OpenCV
-- Matplotlib
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql"/>
-</p>
-
-### Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,aws"/>
-</p>
-
----
-
-# 🌱 Currently Learning
-
-- Large Language Models (LLMs)
-- Generative AI
-- AI Agents
-- MLOps
-- Advanced System Design
-- Cloud-Native Development
-
----
-
-# 💡 Areas of Interest
-
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Full Stack Development
-- Backend Engineering
-- Cloud Computing
-- Open Source Technologies
-
----
-
-# 📌 Current Focus
-
-- 🤖 Building AI-powered applications
-- 🌐 Developing modern Full Stack web platforms
-- ⚡ Exploring Generative AI & LLMs
-- ☁️ Learning scalable cloud architectures
-- 🚀 Contributing to innovative projects at **DevPhoenix**
-
----
-
-# 🤝 Let's Connect
-
-<p>
-
-<a href="https://www.linkedin.com/in/soham-ghosh-464b33253/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://soham-ghosh-tech-portfolio.onrender.com/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
+<a href="https://www.instagram.com/_sg_2200/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="mailto:sohamghosh1762@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+</p>
 
-<a href="https://github.com/sohamghosh1762-max">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
+---
+
+# 💻 Tech Stack
+
+## 👨‍💻 Programming Languages
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
+
+## 🌐 Frontend Development
+
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next_JS-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+---
+
+## ⚙️ Backend Development
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Socket.io](https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+
+---
+
+## 🗄️ Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+
+---
+
+## 🤖 AI / Machine Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
+
+---
+
+## 🎨 Design Tools
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+---
+
+## 🛠️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sohamghosh1762-max&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamghosh1762-max&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=sohamghosh1762-max&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-<div align="center">
+# 🏆 GitHub Trophies
 
-### *"Building intelligent software that creates real-world impact."*
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sohamghosh1762-max&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
 
-⭐ **Thanks for visiting my profile!**
+---
 
-</div>
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sohamghosh1762-max&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🔝 Top Contributed Repositories
+
+<p align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=sohamghosh1762-max&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sohamghosh1762-max&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+---
+
+<p align="center">
+✨ Thanks for visiting my profile! Feel free to connect and collaborate on exciting AI and Full-Stack projects. 🚀
+</p>
